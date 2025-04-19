@@ -7,11 +7,11 @@ ScrollReveal().reveal('#Formatura',
 );
 ScrollReveal().reveal('#Esquerda', 
     {    
-        duration: 1200, reset: false, distance: '100px' , origin: 'left',
+        duration: 1200, reset: false, distance: '10px' , origin: 'left',
     }
 );
 ScrollReveal().reveal('#Direta', 
     {    
-        duration: 1500, reset: false, distance: '100px' , origin: 'rigth',
+        duration: 1500, reset: false, distance: '10px' , origin: 'rigth',
     }
 );
