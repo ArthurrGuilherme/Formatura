@@ -17,7 +17,7 @@ main {
         display: block;
     }
     #Mobile {
-        display: none;
+        display: none !important;
     }
 }
 p {
