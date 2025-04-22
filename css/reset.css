@@ -9,9 +9,15 @@
 main {
     display: none;
 }
+#Mobile {
+    display: block;
+}
 @media (max-width: 900px) {
     main {
         display: block;
+    }
+    #Mobile {
+        display: none;
     }
 }
 p {
